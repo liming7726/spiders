@@ -1,0 +1,406 @@
+{
+  "data": [
+    {
+      "directors": [
+        "安东尼·罗素",
+        "乔·罗素"
+      ],
+      "rate": "8.5",
+      "cover_x": 3000,
+      "star": "45",
+      "title": "复仇者联盟4：终局之战",
+      "url": "https:\/\/movie.douban.com\/subject\/26100958\/",
+      "casts": [
+        "小罗伯特·唐尼",
+        "克里斯·埃文斯",
+        "马克·鲁弗洛",
+        "克里斯·海姆斯沃斯",
+        "斯嘉丽·约翰逊"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2552058346.jpg",
+      "id": "26100958",
+      "cover_y": 4440
+    },
+    {
+      "directors": [
+        "李相槿"
+      ],
+      "rate": "7.7",
+      "cover_x": 1000,
+      "star": "40",
+      "title": "极限逃生",
+      "url": "https:\/\/movie.douban.com\/subject\/30210691\/",
+      "casts": [
+        "曹政奭",
+        "林允儿",
+        "高斗心",
+        "朴仁焕",
+        "金智英"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2563546656.jpg",
+      "id": "30210691",
+      "cover_y": 1425
+    },
+    {
+      "directors": [
+        "陈思诚"
+      ],
+      "rate": "6.7",
+      "cover_x": 1000,
+      "star": "35",
+      "title": "唐人街探案2",
+      "url": "https:\/\/movie.douban.com\/subject\/26698897\/",
+      "casts": [
+        "王宝强",
+        "刘昊然",
+        "肖央",
+        "刘承羽",
+        "尚语贤"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2511355624.jpg",
+      "id": "26698897",
+      "cover_y": 1400
+    },
+    {
+      "directors": [
+        "史蒂文·斯皮尔伯格"
+      ],
+      "rate": "8.7",
+      "cover_x": 2000,
+      "star": "45",
+      "title": "头号玩家",
+      "url": "https:\/\/movie.douban.com\/subject\/4920389\/",
+      "casts": [
+        "泰伊·谢里丹",
+        "奥利维亚·库克",
+        "本·门德尔森",
+        "马克·里朗斯",
+        "丽娜·维特"
+      ],
+      "cover": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2516578307.jpg",
+      "id": "4920389",
+      "cover_y": 3000
+    },
+    {
+      "directors": [
+        "林超贤"
+      ],
+      "rate": "8.3",
+      "cover_x": 1429,
+      "star": "40",
+      "title": "红海行动",
+      "url": "https:\/\/movie.douban.com\/subject\/26861685\/",
+      "casts": [
+        "张译",
+        "黄景瑜",
+        "海清",
+        "杜江",
+        "蒋璐霞"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2514119443.jpg",
+      "id": "26861685",
+      "cover_y": 2000
+    },
+    {
+      "directors": [
+        "詹姆斯·卡梅隆"
+      ],
+      "rate": "8.7",
+      "cover_x": 400,
+      "star": "45",
+      "title": "阿凡达",
+      "url": "https:\/\/movie.douban.com\/subject\/1652587\/",
+      "casts": [
+        "萨姆·沃辛顿",
+        "佐伊·索尔达娜",
+        "西格妮·韦弗",
+        "史蒂芬·朗",
+        "米歇尔·罗德里格兹"
+      ],
+      "cover": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2180085848.jpg",
+      "id": "1652587",
+      "cover_y": 592
+    },
+    {
+      "directors": [
+        "乔·沃茨"
+      ],
+      "rate": "7.9",
+      "cover_x": 2532,
+      "star": "40",
+      "title": "蜘蛛侠：英雄远征",
+      "url": "https:\/\/movie.douban.com\/subject\/26931786\/",
+      "casts": [
+        "汤姆·赫兰德",
+        "赞达亚",
+        "杰克·吉伦哈尔",
+        "寇碧·史莫德斯",
+        "塞缪尔·杰克逊"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2558293106.jpg",
+      "id": "26931786",
+      "cover_y": 3608
+    },
+    {
+      "directors": [
+        "吴京"
+      ],
+      "rate": "7.1",
+      "cover_x": 1024,
+      "star": "35",
+      "title": "战狼2",
+      "url": "https:\/\/movie.douban.com\/subject\/26363254\/",
+      "casts": [
+        "吴京",
+        "弗兰克·格里罗",
+        "吴刚",
+        "张翰",
+        "卢靖姗"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2494701965.jpg",
+      "id": "26363254",
+      "cover_y": 1548
+    },
+    {
+      "directors": [
+        "姜文"
+      ],
+      "rate": "8.8",
+      "cover_x": 1500,
+      "star": "45",
+      "title": "让子弹飞",
+      "url": "https:\/\/movie.douban.com\/subject\/3742360\/",
+      "casts": [
+        "姜文",
+        "葛优",
+        "周润发",
+        "刘嘉玲",
+        "陈坤"
+      ],
+      "cover": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1512562287.jpg",
+      "id": "3742360",
+      "cover_y": 2200
+    },
+    {
+      "directors": [
+        "大卫·雷奇"
+      ],
+      "rate": "6.4",
+      "cover_x": 1080,
+      "star": "30",
+      "title": "速度与激情：特别行动",
+      "url": "https:\/\/movie.douban.com\/subject\/27163278\/",
+      "casts": [
+        "道恩·强森",
+        "杰森·斯坦森",
+        "伊德里斯·艾尔巴",
+        "凡妮莎·柯比",
+        "艾莎·冈萨雷斯"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2561542272.jpg",
+      "id": "27163278",
+      "cover_y": 1581
+    },
+    {
+      "directors": [
+        "乔斯·韦登"
+      ],
+      "rate": "8.2",
+      "cover_x": 1350,
+      "star": "40",
+      "title": "复仇者联盟",
+      "url": "https:\/\/movie.douban.com\/subject\/1866479\/",
+      "casts": [
+        "小罗伯特·唐尼",
+        "克里斯·埃文斯",
+        "斯嘉丽·约翰逊",
+        "克里斯·海姆斯沃斯",
+        "杰瑞米·雷纳"
+      ],
+      "cover": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1469137689.jpg",
+      "id": "1866479",
+      "cover_y": 2000
+    },
+    {
+      "directors": [
+        "延尚昊"
+      ],
+      "rate": "8.4",
+      "cover_x": 1500,
+      "star": "40",
+      "title": "釜山行",
+      "url": "https:\/\/movie.douban.com\/subject\/25986180\/",
+      "casts": [
+        "孔侑",
+        "郑有美",
+        "马东锡",
+        "金秀安",
+        "金义城"
+      ],
+      "cover": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2360940399.jpg",
+      "id": "25986180",
+      "cover_y": 2145
+    },
+    {
+      "directors": [
+        "西蒙·金伯格"
+      ],
+      "rate": "5.9",
+      "cover_x": 4000,
+      "star": "30",
+      "title": "X战警：黑凤凰",
+      "url": "https:\/\/movie.douban.com\/subject\/26667010\/",
+      "casts": [
+        "苏菲·特纳",
+        "詹姆斯·麦卡沃伊",
+        "迈克尔·法斯宾德",
+        "尼古拉斯·霍尔特",
+        "泰伊·谢里丹"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2555886490.jpg",
+      "id": "26667010",
+      "cover_y": 5915
+    },
+    {
+      "directors": [
+        "安东尼·罗素",
+        "乔·罗素"
+      ],
+      "rate": "8.1",
+      "cover_x": 1968,
+      "star": "40",
+      "title": "复仇者联盟3：无限战争",
+      "url": "https:\/\/movie.douban.com\/subject\/24773958\/",
+      "casts": [
+        "小罗伯特·唐尼",
+        "克里斯·海姆斯沃斯",
+        "克里斯·埃文斯",
+        "马克·鲁弗洛",
+        "乔什·布洛林"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2517753454.jpg",
+      "id": "24773958",
+      "cover_y": 2756
+    },
+    {
+      "directors": [
+        "乔恩·费儒"
+      ],
+      "rate": "8.2",
+      "cover_x": 448,
+      "star": "40",
+      "title": "钢铁侠",
+      "url": "https:\/\/movie.douban.com\/subject\/1432146\/",
+      "casts": [
+        "小罗伯特·唐尼",
+        "泰伦斯·霍华德",
+        "格温妮斯·帕特洛",
+        "杰夫·布里吉斯",
+        "莱丝莉·比伯"
+      ],
+      "cover": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p725871968.jpg",
+      "id": "1432146",
+      "cover_y": 672
+    },
+    {
+      "directors": [
+        "邱礼涛"
+      ],
+      "rate": "6.0",
+      "cover_x": 1020,
+      "star": "30",
+      "title": "扫毒2天地对决",
+      "url": "https:\/\/movie.douban.com\/subject\/30171425\/",
+      "casts": [
+        "刘德华",
+        "古天乐",
+        "苗侨伟",
+        "林嘉欣",
+        "周秀娜"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2561172733.jpg",
+      "id": "30171425",
+      "cover_y": 1428
+    },
+    {
+      "directors": [
+        "鲁本·弗雷斯彻"
+      ],
+      "rate": "7.2",
+      "cover_x": 2050,
+      "star": "35",
+      "title": "毒液：致命守护者",
+      "url": "https:\/\/movie.douban.com\/subject\/3168101\/",
+      "casts": [
+        "汤姆·哈迪",
+        "米歇尔·威廉姆斯",
+        "里兹·阿迈德",
+        "斯科特·黑兹",
+        " 瑞德·斯科特"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2537158013.jpg",
+      "id": "3168101",
+      "cover_y": 2910
+    },
+    {
+      "directors": [
+        "斯科特·德瑞克森"
+      ],
+      "rate": "7.6",
+      "cover_x": 1800,
+      "star": "40",
+      "title": "奇异博士",
+      "url": "https:\/\/movie.douban.com\/subject\/3025375\/",
+      "casts": [
+        "本尼迪克特·康伯巴奇",
+        "蒂尔达·斯文顿",
+        "麦斯·米科尔森",
+        "切瓦特·埃加福特",
+        "瑞秋·麦克亚当斯"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2388501883.jpg",
+      "id": "3025375",
+      "cover_y": 2521
+    },
+    {
+      "directors": [
+        "温子仁"
+      ],
+      "rate": "7.6",
+      "cover_x": 6750,
+      "star": "40",
+      "title": "海王",
+      "url": "https:\/\/movie.douban.com\/subject\/3878007\/",
+      "casts": [
+        "杰森·莫玛",
+        "艾梅柏·希尔德",
+        "威廉·达福",
+        "帕特里克·威尔森",
+        "妮可·基德曼"
+      ],
+      "cover": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2541280047.jpg",
+      "id": "3878007",
+      "cover_y": 10000
+    },
+    {
+      "directors": [
+        "陈思诚"
+      ],
+      "rate": "7.5",
+      "cover_x": 2850,
+      "star": "40",
+      "title": "唐人街探案",
+      "url": "https:\/\/movie.douban.com\/subject\/26311973\/",
+      "casts": [
+        "王宝强",
+        "刘昊然",
+        "佟丽娅",
+        "陈赫",
+        "肖央"
+      ],
+      "cover": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2302930556.jpg",
+      "id": "26311973",
+      "cover_y": 3990
+    }
+  ]
+}
