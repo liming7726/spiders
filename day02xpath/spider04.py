@@ -5,6 +5,7 @@ from request import get
 
 from lxml import etree
 
+
 BASE_URL = 'http://www.tbqq.net/'
 
 def download(url):

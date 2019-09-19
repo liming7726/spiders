@@ -1,5 +1,6 @@
 from http.client import HTTPResponse
-from urllib.request import Request, urlretrieve, urlopen
+from http.cookiejar import CookieJar
+from urllib.request import Request, urlretrieve, urlopen, build_opener, HTTPHandler, HTTPCookieProcessor, ProxyHandler
 from urllib.parse import urlencode
 
 
@@ -13,8 +14,10 @@ def get(url, params: dict = None, headers: dict = None) -> HTTPResponse:
         req = Request(url,headers=headers)
     else:
         req = Request(url)
-
-    return urlopen(req)
+    opener = build_opener(HTTPHandler(),
+                          HTTPCookieProcessor(CookieJar()),
+                          ProxyHandler(proxies={'http': '39.137.69.7:8080'}))
+    return opener.open(req)
 
 
 def save():
