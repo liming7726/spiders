@@ -5,6 +5,12 @@ from urllib.parse import urlencode
 
 
 def get(url, params: dict = None, headers: dict = None) -> HTTPResponse:
+    """
+    :param url:
+    :param params:
+    :param headers:
+    :return:
+    """
     if params:
         parar_str = urlencode(params)
         subfix = '?' if url.find('?') == -1 else '' if url.find('=') == -1 else '&'
