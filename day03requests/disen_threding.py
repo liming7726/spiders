@@ -79,6 +79,7 @@ class ParserThread(Thread):
                         kwargs = callback_params[1]
                         f(html,**kwargs)
             except:
+                print('---解析出错---')
                 break
 
         print("----解析完成----")
@@ -161,9 +162,10 @@ if __name__ == '__main__':
     result = ParserThread(tasks_queue,result_queue,items_queue)
     item = ItemThread(items_queue)
 
-    item.start()
     downloader.start()
     result.start()
+    item.start()
+
 
     downloader.join()
     item.join()
